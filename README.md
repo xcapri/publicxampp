@@ -17,7 +17,7 @@ How to make localhost accessible from another device
 - Open XAMPP again start Apache & MYSQL 
 - Last Access ip on mobile 
 
-## Refrensi 
+## Reference
 - https://stackoverflow.com/questions/5524116/accessing-localhost-xampp-from-another-computer-over-lan-network-how-to
 - https://ourcodeworld.com/articles/read/1093/how-to-access-the-htdocs-directory-of-xampp-from-a-computer-or-mobile-device-in-the-same-local-area-network-lan
 
